@@ -1,4 +1,4 @@
-# SfSpaces.co
+# [SfSpaces.co](SfSpaces.co)
 
 A public map of the Privately Owned Public Open Spaces in San Francisco.
 
